@@ -1,0 +1,14 @@
+.jumbotron {
+background: #c82021;
+color: #FFF;
+border-radius: 0px;
+}
+.jumbotron-sm { padding-top: 12px;
+padding-bottom: 12px; }
+.jumbotron small {
+color: #FFF;
+}
+.h1 small {
+font-size: 24px;
+}
+ 
