@@ -41,8 +41,7 @@ CREATE TABLE IF NOT EXISTS `admin` (
 --
 
 INSERT INTO `admin` (`id`, `username`, `password`, `email`) VALUES
-(1, 'Haroun', '12345', 'haroun@gmail.com'),
-(2, 'khorshed', '12345', 'khorshed@gmail.com');
+(1, 'Admin', '123', 'admin@domin.com');
 
 -- --------------------------------------------------------
 
@@ -121,9 +120,7 @@ CREATE TABLE IF NOT EXISTS `user` (
 --
 
 INSERT INTO `user` (`id`, `firstName`, `lastName`, `imageUrl`, `email`, `username`, `password`) VALUES
-(2, 'Mohamed', 'Fouad', 'img/UserProfiles/DefaultUser.jpg', 'm@gmail.com', 'Fo2sh', '123'),
-(3, 'haroun', 'haroun', 'img/UserProfiles/DefaultUser.jpg', 'h@ht.com', 'herher', '123'),
-(4, 'hr', 'hr', 'img/UserProfiles/DefaultUser.jpg', 'hr@ht.com', 'hr', '123');
+(2, 'Mohamed', 'Fouad', 'img/UserProfiles/DefaultUser.jpg', 'user@domin.com', 'user', '123');
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
