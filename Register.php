@@ -43,10 +43,10 @@ if ((isset($_POST['email']) && isset($_POST['password']) && isset($_POST['passwo
 <head>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" type="text/css" href="register.css">
-	<link rel="stylesheet" href="bootstrap-theme.css">
-	<link rel="stylesheet" href="bootstrap-theme.min.css">
-	<link rel="stylesheet" href="bootstrap.css">
-	<link rel="stylesheet" href="bootstrap.min.css">
+	<link rel="stylesheet" href="asset/css/bootstrap-theme.css">
+	<link rel="stylesheet" href="asset/css/bootstrap-theme.min.css">
+	<link rel="stylesheet" href="asset/css/bootstrap.css">
+	<link rel="stylesheet" href="asset/css/bootstrap.min.css">
 	<!-- Website Font style -->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
 
